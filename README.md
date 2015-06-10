@@ -3,7 +3,7 @@ TokeTime
 
 This tweak overlays Snoop Dogg on your wallpaper at 4:20 AM/PM.
 
-![TokeTime](https://twitter.com/phillipten/status/598266070185615360)
+![TokeTime](https://pbs.twimg.com/media/CE130CRUMAAsWKA.jpg)
 
 Available on BigBoss
 
